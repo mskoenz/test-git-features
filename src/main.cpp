@@ -18,7 +18,7 @@ void feature()
 
 int main(int argc, char* argv[])
 {
-    std::cout << "Hello World 6!" << std::endl;
+    std::cout << "Hello World 7!" << std::endl;
     extreme();
     feature();
     return 0;
