@@ -8,7 +8,7 @@ using namespace std;
 
 void feature()
 {
-    std::cout << "lame!" << std::endl;
+    std::cout << "meehh..." << std::endl;
 }
 
 int main(int argc, char* argv[])
