@@ -6,8 +6,14 @@
 
 using namespace std;
 
+void feature()
+{
+    std::cout << "lame!" << std::endl;
+}
+
 int main(int argc, char* argv[])
 {
     std::cout << "Hello World 3!" << std::endl;
+    feature();
     return 0;
 }
