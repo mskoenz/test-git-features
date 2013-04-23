@@ -13,12 +13,12 @@ void extreme()
 
 void feature()
 {
-    std::cout << "lame!" << std::endl;
+    std::cout << "awesome!" << std::endl;
 }
 
 int main(int argc, char* argv[])
 {
-    std::cout << "Hello World 4!" << std::endl;
+    std::cout << "Hello World 6!" << std::endl;
     extreme();
     feature();
     return 0;
